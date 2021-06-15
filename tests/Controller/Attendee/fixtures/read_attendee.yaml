@@ -1,0 +1,9 @@
+App\Entity\Attendee:
+    attendee_1:
+        __construct: [
+                'b8bfdd2d-072f-4462-8dac-22d6fb92c335',
+                'John',
+                'Smith',
+                'test@email.local',
+        ]
+
